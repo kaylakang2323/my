@@ -1,9 +1,26 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "About"
+#    url: /about/
+  - title: "Journey"
+    url: /journey/
+  - title: "Capabilities"
+    url: /capabilities/
+  - title: "Case Studies"
+    url: /casestudies/
+  - title: "Playbooks"
+    url: /playbooks/
+  - title: "Insights"
+    url: /insights/
+  - title: "Resume"
+    url: /resume/
+     
+
+
+
+
