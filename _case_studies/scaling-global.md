@@ -7,6 +7,8 @@ excerpt: "Building and scaling distributed design organizations across India, Vi
 
 date: 2026-07-05
 
+sort_order: 6
+
 categories:
   - Organization Design
 
