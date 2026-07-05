@@ -7,6 +7,8 @@ excerpt: "Transforming Customer Value Proposition (CVP) from a conceptual framew
 
 date: 2026-07-05
 
+sort_order: 3
+
 categories:
   - Governance
 
