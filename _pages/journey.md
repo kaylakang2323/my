@@ -6,25 +6,25 @@ permalink: /journey/
 
 # Journey
 
-My career has never followed a traditional design path.
+My career has never followed a conventional path.
 
-I began by exploring technology, moved into artificial intelligence research, helped organizations adopt data-driven consulting, and eventually found my place in UX and Design Operations.
+I started by exploring technology, moved into artificial intelligence research, helped organizations build new consulting capabilities, and later worked across design, customer experience, and organizational transformation.
 
-Looking back, every step taught me how systems work—first technical systems, then business systems, and finally organizational systems.
+Each step expanded my perspective—not only on technology, but on how people, processes, and organizations evolve together.
 
-Today, I focus on helping organizations adopt emerging technologies by redesigning how people work, learn, and collaborate.
+Today, I work as a **Transformation Strategist**, helping organizations adopt emerging technologies by redesigning how people work, learn, and collaborate.
 
 ---
 
-## Hacker
+# Hacker
 
 Technology was my first language.
 
-I was fascinated by understanding how systems worked, how they could be improved, and how automation could solve repetitive problems.
+I was fascinated by understanding how systems worked, how they could be improved, and how automation could eliminate repetitive work.
 
-This experience shaped the systems thinking that still influences how I approach organizational design today.
+This early experience shaped the systems thinking that continues to influence how I approach organizational challenges today.
 
-**What I learned**
+### What I learned
 
 - Systems Thinking
 - Automation Mindset
@@ -32,92 +32,81 @@ This experience shaped the systems thinking that still influences how I approach
 
 ---
 
-## AI Researcher
+# AI Researcher
 
-Working in AI introduced me to emerging technologies long before they became mainstream.
+Working in AI exposed me to emerging technologies long before they became mainstream.
 
-More importantly, it taught me that technology alone rarely changes organizations.
+More importantly, it taught me that technology alone rarely transforms organizations.
 
 Successful adoption depends on people, workflows, and business context.
 
-**What I learned**
+### What I learned
 
-- AI & Human Collaboration
-- Research and Experimentation
+- Artificial Intelligence
+- Research & Experimentation
 - Technology Adoption
+- Human-centered Innovation
 
 ---
 
-## Consultant
+# Consultant
 
-As organizations began adopting big data, I helped transform consulting capabilities.
+As organizations began embracing data-driven decision making, I helped transform consulting capabilities by designing internal learning programs and facilitating the transition to Big Data consulting.
 
-I designed internal learning programs and trained consultants to become data analytics consultants, planning and operating multiple training cohorts.
+This experience showed me that organizational change happens through capability building—not presentations.
 
-This experience taught me that transformation happens through people, not presentations.
-
-**What I learned**
+### What I learned
 
 - Capability Building
-- Learning Program Design
-- Change Management
+- Organizational Learning
+- Change Enablement
 - Facilitation
 
 ---
 
-## UX & Design
+# Design & Innovation
 
-Moving into UX allowed me to connect business goals with user needs.
+Design became a way to connect customer needs, business goals, and technology.
 
-I facilitated Design Thinking workshops across business units, identified customer needs, and led UX improvements during our transition from on-premise products to SaaS solutions.
+I facilitated cross-functional workshops, introduced customer-centered practices, improved SaaS onboarding experiences, and helped redefine how product teams collaborated.
 
-This experience strengthened my ability to bridge business strategy and user experience.
+Through this work, I realized that good design is less about interfaces and more about enabling better decisions.
 
-**What I learned**
+### What I learned
 
-- UX Strategy
-- Design Thinking
-- Stakeholder Alignment
-- Service Transformation
+- Customer Strategy
+- Cross-functional Facilitation
+- Product Innovation
+- Human-centered Problem Solving
 
 ---
 
-## Design Operations
+# Organizational Transformation
 
-As the design organization grew, my focus expanded beyond individual projects.
+As organizations expanded, my focus shifted from designing products to designing the systems behind them.
 
-I helped establish new design consulting roles, competency frameworks, career ladders, peer review systems, and governance models.
+I built organizational frameworks, governance models, competency systems, evaluation processes, and AI-enabled operating models that helped teams collaborate more effectively and scale consistently.
 
-I also explored how AI could improve planning, design, development, testing, and operations, contributing ideas that later evolved into pilot projects and operational initiatives.
+This stage taught me that sustainable innovation depends on governance, capability, and shared ways of working.
 
-**What I learned**
+### What I learned
 
 - Organization Design
-- DesignOps
-- AI-enabled Workflows
 - Governance
-
----
-
-## Global Leadership
-
-As our design organization expanded internationally, I supported the establishment and operation of design teams across India, Vietnam, and China.
-
-I participated in hiring design leaders and team members, supported local decision-making, and helped maintain consistent design governance across regions.
-
-**What I learned**
-
+- AI Transformation
+- Operating Models
 - Global Collaboration
-- Organizational Scaling
-- Leadership Support
-- Cross-cultural Communication
 
 ---
 
 # Today
 
-Today, I see my work as designing systems that help organizations evolve.
+Today, I work as a **Transformation Strategist**.
 
-Whether introducing AI, building design organizations, improving workflows, or developing people, my goal remains the same:
+My role is to help organizations navigate technological change by connecting technology, people, and business strategy.
 
-> Build organizations that can continuously learn, adapt, and create better products.
+Rather than focusing on a single discipline, I bring together perspectives from technology, AI research, consulting, design, and organizational development to help organizations evolve.
+
+Whether introducing AI, redesigning operating models, building organizational capabilities, or facilitating cross-functional collaboration, my goal remains the same:
+
+> Help organizations turn emerging technologies into sustainable ways of working.
