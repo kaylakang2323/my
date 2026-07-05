@@ -10,9 +10,9 @@ My work focuses on building organizational capabilities that connect technology,
 
 ---
 
-# Organization Design
+## Organization Design
 
-## Problem
+### Problem
 
 How do we build organizations that can continuously adapt and scale?
 
@@ -36,9 +36,9 @@ Technology evolves quickly, but organizations only evolve when people have clear
 
 ---
 
-# Product & Experience Governance
+## Product & Experience Governance
 
-## Problem
+### Problem
 
 How do we ensure customer value is consistently reflected throughout product delivery?
 
@@ -64,9 +64,9 @@ I design governance models that align business, product, design, and engineering
 
 ---
 
-# AI Transformation
+## AI Transformation
 
-## Problem
+### Problem
 
 How can emerging technologies become practical ways of working?
 
@@ -91,9 +91,9 @@ I identify opportunities, facilitate collaboration across teams, and redesign wo
 
 ---
 
-# Customer Strategy & Service Design
+## Customer Strategy & Service Design
 
-## Problem
+### Problem
 
 How do we uncover real customer needs before building products?
 
@@ -116,9 +116,9 @@ Meaningful solutions emerge when business goals and customer needs are aligned e
 
 ---
 
-# Capability Building
+## Capability Building
 
-## Problem
+### Problem
 
 How do organizations build new capabilities as technology evolves?
 
@@ -143,9 +143,9 @@ I design learning experiences and facilitate organizational capability developme
 
 ---
 
-# Global Organizational Enablement
+## Global Organizational Enablement
 
-## Problem
+### Problem
 
 How do organizations scale consistently across regions?
 
@@ -168,7 +168,7 @@ Global organizations need shared principles while enabling local autonomy.
 
 ---
 
-# My Approach
+## My Approach
 
 Technology alone does not transform organizations.
 
