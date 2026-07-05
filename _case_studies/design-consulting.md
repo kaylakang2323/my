@@ -1,5 +1,6 @@
 ---
 title: "Creating a Design Consulting Role"
+layout: single
 excerpt: "Redesigning organizational roles to strengthen customer engagement and business collaboration."
 
 date: 2026-07-05
