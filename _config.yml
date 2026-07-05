@@ -83,6 +83,7 @@ collections:
   case_studies:
     output: true
     permalink: /case-studies/:name/
+    sort_by: sort_order
 
   playbooks:
     output: true
