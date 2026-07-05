@@ -111,3 +111,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  case_studies:
+    output: true
+    permalink: /case-studies/:name/
+
+  playbooks:
+    output: true
+    permalink: /playbooks/:name/
+
+  insights:
+    output: true
+    permalink: /insights/:name/
