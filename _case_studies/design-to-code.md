@@ -8,14 +8,14 @@ excerpt: "Designing an internal Design-to-Code platform that improved delivery e
 date: 2026-07-05
 
 categories:
-  - Design Governance
+  - Governance
 
 tags:
   - Design Governance
   - Design-to-Code
   - Workflow Transformation
-  - Cross-functional Collaboration
   - Platform Strategy
+  - Cross-functional Collaboration
 
 author_profile: true
 toc: true
