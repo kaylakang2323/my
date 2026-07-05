@@ -7,6 +7,8 @@ excerpt: "Proposing an AI agent-based user research model to scale qualitative i
 
 date: 2026-07-05
 
+sort_order: 3
+
 categories:
   - AI Transformation
 
