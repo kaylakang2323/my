@@ -6,172 +6,174 @@ permalink: /capabilities/
 
 # Capabilities
 
-I help organizations navigate change by combining technology, design, and organizational thinking.
+I help organizations adopt emerging technologies by redesigning how people work, learn, and collaborate.
 
-My work focuses on building the systems, capabilities, and ways of working that enable teams to adapt to new technologies and deliver better products.
+My work focuses on building organizational capabilities that connect technology, people, and business outcomes. Rather than introducing new tools alone, I help organizations establish the operating models, governance, and collaboration needed to make transformation sustainable.
 
 ---
 
-# Design Organization
-
-Design teams need more than talented designers—they need clear roles, shared expectations, and sustainable operating models.
+# Organization Design
 
 ## Problem
 
-How do we build design organizations that can scale?
+How do we build organizations that can continuously adapt and scale?
+
+Technology evolves quickly, but organizations only evolve when people have clear roles, shared expectations, and transparent growth paths.
 
 ### What I do
 
 - Design organizational structures
 - Define roles and responsibilities
 - Build competency frameworks
-- Design career ladders
+- Design career progression models
 - Establish performance and peer review systems
-- Support organizational growth and scaling
+- Support organizational scaling
 
 ### Selected Work
 
 - Introduced a Design Consulting role to strengthen customer engagement
 - Built competency and evaluation frameworks
-- Designed peer review processes
-- Supported the growth of the design organization
-
-→ Related Case Studies
+- Designed peer review systems
+- Supported organizational growth through structured operating models
 
 ---
 
-# Design Governance
+# Product & Experience Governance
 
-Great design is not sustained by talented individuals alone. 
+## Problem
 
-It requires governance that embeds customer-centered thinking into how organizations plan, build, and deliver products.
+How do we ensure customer value is consistently reflected throughout product delivery?
+
+Customer-centered products require governance—not only execution.
+
+I design governance models that align business, product, design, and engineering around shared customer outcomes.
 
 ### What I do
 
 - Design governance models
-- Establish quality gates across the product lifecycle
-- Integrate customer-centered decision making into product development
-- Build Design-to-Code workflows
-- Standardize cross-functional design governance
-- Improve design delivery through scalable operating systems
+- Build Design-to-Code operating models
+- Establish quality gates
+- Integrate Customer Value Proposition (CVP) validation into product development
+- Standardize cross-functional decision-making
+- Facilitate alignment across business, product, design, and engineering
 
 ### Selected Work
 
-- Established a Design-to-Code governance model to improve collaboration between design and engineering
-- Introduced Customer Value Proposition (CVP) validation into the product development lifecycle
-- Defined design quality gates and Design QA governance
-- Standardized cross-functional design decision-making processes
-- Established governance principles for scalable design delivery
-
-→ Related Case Studies
+- Established a Design-to-Code governance model
+- Introduced Customer Value Proposition (CVP) validation into the product lifecycle
+- Defined design quality gates across delivery processes
+- Standardized cross-functional governance for product delivery
 
 ---
 
 # AI Transformation
 
-Emerging technologies create value only when they become part of everyday work.
+## Problem
 
-I identify opportunities where AI can improve planning, design, development, testing, and operations.
+How can emerging technologies become practical ways of working?
+
+AI creates value only when people understand where and how to use it.
+
+I identify opportunities, facilitate collaboration across teams, and redesign workflows that enable sustainable AI adoption.
 
 ### What I do
 
-- AI workflow design
-- Opportunity discovery
-- Automation strategy
-- AI-assisted DesignOps
-- Cross-functional ideation
+- Discover AI opportunities
+- Facilitate AI adoption initiatives
+- Redesign workflows for AI-enabled ways of working
+- Design AI operating models
+- Identify automation opportunities
 
 ### Selected Work
 
-- AI-assisted code generation initiative
-- AI user testing concept
-- AI adoption roadmap across DesignOps
-
-→ Related Case Studies
+- Proposed AI opportunities across planning, design, development, testing, and operations
+- Contributed ideas that led to patent filings and pilot implementations
+- Contributed concepts for AI-assisted user testing agents
+- Contributed ideas that evolved into AI-assisted code generation workflows
 
 ---
 
-# UX Strategy & Consulting
+# Customer Strategy & Service Design
 
-Good user experience begins with understanding business problems.
+## Problem
 
-I facilitate conversations that connect business goals, customer needs, and product strategy.
+How do we uncover real customer needs before building products?
+
+Meaningful solutions emerge when business goals and customer needs are aligned early.
 
 ### What I do
 
-- Design Thinking workshops
-- Stakeholder interviews
-- Discovery sessions
-- UX strategy
-- Service onboarding
-- Product improvement
+- Facilitate discovery workshops
+- Lead Design Thinking sessions
+- Align stakeholders around customer outcomes
+- Translate business needs into product opportunities
+- Improve onboarding and service experiences
 
 ### Selected Work
 
-- SaaS onboarding experience
-- Cross-business workshops
-- Product UX improvements
-
-→ Related Case Studies
+- Facilitated cross-functional discovery workshops across business units
+- Designed SaaS onboarding experiences during product transformation
+- Improved product usability through customer-centered design
+- Helped align multiple business units around shared customer goals
 
 ---
 
 # Capability Building
 
-Technology transformation requires people to grow with it.
+## Problem
 
-I design learning experiences that help teams develop new skills and adopt new ways of working.
+How do organizations build new capabilities as technology evolves?
+
+Transformation succeeds when people learn together.
+
+I design learning experiences and facilitate organizational capability development that enable teams to adopt new skills with confidence.
 
 ### What I do
 
-- Internal education programs
-- Workshop facilitation
-- Upskilling strategy
-- Learning curriculum
-- Change enablement
+- Design learning programs
+- Build capability development frameworks
+- Facilitate workshops and collaborative learning
+- Plan upskilling initiatives
+- Support organizational change
 
 ### Selected Work
 
-- Big Data consultant training program
-- Multi-cohort internal education
-- Design Thinking facilitation
-
-→ Related Case Studies
+- Designed internal Big Data consultant training programs
+- Planned and operated multiple learning courses
+- Facilitated Design Thinking workshops
+- Enabled capability transformation across consulting teams
 
 ---
 
-# Global Design Leadership
+# Global Organizational Enablement
 
-Scaling design requires more than hiring—it requires shared principles, governance, and local empowerment.
+## Problem
+
+How do organizations scale consistently across regions?
+
+Global organizations need shared principles while enabling local autonomy.
 
 ### What I do
 
-- Global governance
-- Team setup
-- Hiring support
-- Leadership coaching
-- Cross-regional collaboration
+- Establish governance models
+- Support global hiring and team growth
+- Build regional operating models
+- Enable leadership decision-making
+- Facilitate cross-regional collaboration
 
 ### Selected Work
 
-- Supported design teams in India, Vietnam, and China
-- Hiring managers and designers
-- Weekly governance and operational support
-
-→ Related Case Studies
+- Supported the establishment of design teams in India, Vietnam, and China
+- Supported hiring of regional leaders and team members
+- Facilitated weekly governance and leadership alignment
+- Helped establish consistent operating practices across global teams
 
 ---
 
 # My Approach
 
-Across every project, my role is rarely limited to designing interfaces.
+Technology alone does not transform organizations.
 
-Instead, I focus on helping organizations answer questions like:
+Successful transformation happens when technology, governance, people, and collaboration evolve together.
 
-- How should teams work together?
-- What capabilities do people need?
-- Which processes should evolve?
-- How can AI create practical value?
-- How do we scale quality across teams?
-
-Because sustainable transformation happens when technology, people, and organizational systems evolve together.
+My role is to help organizations bridge that gap—connecting emerging technologies with practical ways of working through organizational design, governance, facilitation, and continuous capability building.
