@@ -4,8 +4,6 @@ title: "Journey"
 permalink: /journey/
 ---
 
-# Journey
-
 My career has never followed a conventional path.
 
 I started by exploring technology, moved into artificial intelligence research, helped organizations build new consulting capabilities, and later worked across design, customer experience, and organizational transformation.
@@ -16,7 +14,7 @@ Today, I work as a **Transformation Strategist**, helping organizations adopt em
 
 ---
 
-# Hacker
+## Hacker
 
 Technology was my first language.
 
@@ -32,7 +30,7 @@ This early experience shaped the systems thinking that continues to influence ho
 
 ---
 
-# AI Researcher
+## AI Researcher
 
 Working in AI exposed me to emerging technologies long before they became mainstream.
 
@@ -49,7 +47,7 @@ Successful adoption depends on people, workflows, and business context.
 
 ---
 
-# Consultant
+## Consultant
 
 As organizations began embracing data-driven decision making, I helped transform consulting capabilities by designing internal learning programs and facilitating the transition to Big Data consulting.
 
@@ -64,7 +62,7 @@ This experience showed me that organizational change happens through capability 
 
 ---
 
-# Design & Innovation
+## Design & Innovation
 
 Design became a way to connect customer needs, business goals, and technology.
 
@@ -81,7 +79,7 @@ Through this work, I realized that good design is less about interfaces and more
 
 ---
 
-# Organizational Transformation
+## Organizational Transformation
 
 As organizations expanded, my focus shifted from designing products to designing the systems behind them.
 
@@ -99,7 +97,7 @@ This stage taught me that sustainable innovation depends on governance, capabili
 
 ---
 
-# Today
+## Today
 
 Today, I work as a **Transformation Strategist**.
 
