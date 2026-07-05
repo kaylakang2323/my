@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: KK
+title: Kayla Kang
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Transformation Strategist
-twitter_username: username
-github_username: username
+#instagram_username: username
+#github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -56,16 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Kayla Kang"
+  name   : "Transformation Strategist"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I help organizations adopt emerging technologies by redesigning how people work, learn, and collaborate."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -84,6 +78,19 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+
+collections:
+  case_studies:
+    output: true
+    permalink: /case-studies/:name/
+
+  playbooks:
+    output: true
+    permalink: /playbooks/:name/
+
+  insights:
+    output: true
+    permalink: /insights/:name/
 
 defaults:
   # _posts
@@ -104,6 +111,27 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _case-studies
+  - scope:
+      path: ""
+      type: case-studies
+    values:
+      layout: single
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: playbooks
+    values:
+      layout: single
+      author_profile: true
+
+  - scope:
+      path: ""
+      type: insights
+    values:
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
@@ -112,15 +140,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-collections:
-  case_studies:
-    output: true
-    permalink: /case-studies/:name/
-
-  playbooks:
-    output: true
-    permalink: /playbooks/:name/
-
-  insights:
-    output: true
-    permalink: /insights/:name/
