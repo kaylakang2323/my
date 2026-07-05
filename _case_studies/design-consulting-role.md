@@ -7,6 +7,8 @@ excerpt: "Redesigning organizational roles to strengthen customer engagement and
 
 date: 2026-07-05
 
+sort_order: 1
+
 header:
   teaser: /assets/images/case-studies/design-consulting-role-cover.png
 
