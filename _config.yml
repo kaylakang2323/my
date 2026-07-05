@@ -114,7 +114,7 @@ defaults:
   # _case-studies
   - scope:
       path: ""
-      type: case-studies
+      type: case_studies
     values:
       layout: single
       author_profile: true
