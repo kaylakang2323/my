@@ -4,8 +4,6 @@ title: "Capabilities"
 permalink: /capabilities/
 ---
 
-# Capabilities
-
 I help organizations adopt emerging technologies by redesigning how people work, learn, and collaborate.
 
 My work focuses on building organizational capabilities that connect technology, people, and business outcomes. Rather than introducing new tools alone, I help organizations establish the operating models, governance, and collaboration needed to make transformation sustainable.
