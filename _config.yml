@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Home
+title: Kayla Kang
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Transformation Strategist
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kayla Kang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I help organizations adopt emerging technologies by redesigning how people work, learn, and collaborate."
+  bio    : "Transformation Strategist" #I help organizations adopt emerging technologies by redesigning how people work, learn, and collaborate."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
