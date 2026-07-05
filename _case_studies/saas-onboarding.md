@@ -7,6 +7,8 @@ excerpt: "Leading the end-to-end design and implementation of SaaS onboarding ex
 
 date: 2026-07-05
 
+sort_order: 5
+
 categories:
   - Product Experience
 
