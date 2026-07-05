@@ -1,17 +1,27 @@
 ---
 title: "Creating a Design Consulting Role"
+
 layout: single
+
 excerpt: "Redesigning organizational roles to strengthen customer engagement and business collaboration."
 
 date: 2026-07-05
 
+header:
+  teaser: /assets/images/case-studies/design-consulting-role-cover.png
+
+categories:
+  - Organization Design
+
 tags:
   - Organization Design
   - Facilitation
-  - Design Governance
+  - Governance
   - Capability Building
 
-featured: true
+author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 ## Overview
