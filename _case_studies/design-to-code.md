@@ -7,6 +7,8 @@ excerpt: "Designing an internal Design-to-Code platform that improved delivery e
 
 date: 2026-07-05
 
+sort_order: 2
+
 categories:
   - Governance
 
