@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 url: "https://kaylakang2323.github.io"
 baseurl: "/my"
-#instagram_username: username
+instagram_username: username
 #github_username: username
 minimal_mistakes_skin: default
 search: true
