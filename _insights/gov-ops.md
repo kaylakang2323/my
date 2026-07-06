@@ -1,7 +1,7 @@
 ---
 title: "DesignOps is actually Governance, not Operations"
 layout: single
-categories: GOVERNANCE & ORGANIZATION
+categories: Governance&Organization
 tags:
   - DesignOps
   - Governance
