@@ -10,10 +10,10 @@ date: 2026-07-05
 sort_order: 2
 
 categories:
-  - Governance
+  - Case Studies
 
 tags:
-  - Design Governance
+  - Governance
   - Design-to-Code
   - Workflow Transformation
   - Platform Strategy
