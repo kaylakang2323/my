@@ -1,8 +1,9 @@
 ---
 title: "Playbooks"
-layout: collection
+layout: category-archive
 permalink: /playbooks/
-collection: playbooks
+category: Playbooks
+
 entries_layout: list
 sort_by: title
 ---
