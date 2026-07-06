@@ -15,3 +15,21 @@
   border-bottom: 2px solid #2563eb;
   font-weight: 700;
 }
+
+/* 현재 페이지 메뉴 강조 */
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus {
+  color: #52adc8;
+  border-bottom: 2px solid #52adc8;
+}
+
+/* 현재 페이지와 URL 매칭 (각 페이지별) */
+body[class*="journey"] .masthead__menu-item a[href*="journey"],
+body[class*="capabilities"] .masthead__menu-item a[href*="capabilities"],
+body[class*="case-studies"] .masthead__menu-item a[href*="case-studies"],
+body[class*="playbooks"] .masthead__menu-item a[href*="playbooks"],
+body[class*="tags"] .masthead__menu-item a[href*="tags"] {
+  color: #52adc8;
+  font-weight: 700;
+  border-bottom: 2px solid #52adc8;
+}
