@@ -1,8 +1,13 @@
 ---
 title: "Case Studies"
-layout: collection
+layout: archive
 permalink: /case-studies/
-collection: case_studies
 entries_layout: list
-sort_by: sort_order
 ---
+
+{% assign posts = site.categories["Case Studies"] | sort: "sort_order" %}
+
+{% for post in posts %}
+  {% include archive-single.html type=page.entries_layout %}
+{% endfor %}
+
