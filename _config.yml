@@ -75,15 +75,18 @@ author:
 
 footer:
   links:
-   # - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
-   #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+  
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/여기에-프로필-ID"
+
+    - label: "Brunch"
+      icon: "fas fa-fw fa-pen-nib"
+      url: "https://brunch.co.kr/@beluvme"
+
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/여기에ID"
 
 defaults:
   # _posts
