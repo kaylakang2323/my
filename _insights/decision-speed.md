@@ -1,7 +1,7 @@
 ---
 title: "Good organizations slow down decisions intentionally"
 layout: single
-categories: GOVERNANCE & ORGANIZATION
+categories: Governance&Organization
 tags:
   - Organization Design
   - Decision Making
