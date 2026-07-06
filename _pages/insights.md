@@ -1,11 +1,10 @@
 ---
 title: "Insights"
-layout: collection
+layout: category-archive
 permalink: /insights/
-collection: insights
+category: Insights
+
 entries_layout: list
 sort_by: date
 sort_order: reverse
-#entries_layout: grid
-#group_by: categories
 ---
