@@ -5,3 +5,42 @@
 layout: home
 author_profile: true
 ---
+<section class="insights-clusters">
+
+  <h1>Insights</h1>
+  <p class="subtitle">Organizational thinking structured into three systems</p>
+
+  <!-- CLUSTER 1 -->
+  <div class="cluster">
+    <h2>AI & SYSTEMS</h2>
+
+    {% for post in site.insights %}
+      {% if post.categories == "AI & SYSTEMS" %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- CLUSTER 2 -->
+  <div class="cluster">
+    <h2>GOVERNANCE & ORGANIZATION</h2>
+
+    {% for post in site.insights %}
+      {% if post.categories == "GOVERNANCE & ORGANIZATION" %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- CLUSTER 3 -->
+  <div class="cluster">
+    <h2>WORK DESIGN & FACILITATION/h2>
+
+    {% for post in site.insights %}
+      {% if post.categories == "WORK DESIGN & FACILITATION" %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+</section>
