@@ -4,7 +4,7 @@ layout: single
 categories: Governance&Organization
 tags:
   - Organization Design
-  - Decision Making
+  - Governance
 ---
 
 Speed is often treated as a universal indicator of organizational health.
