@@ -10,7 +10,7 @@ date: 2026-07-05
 sort_order: 5
 
 categories:
-  - Product Experience
+  - Case Studies
 
 tags:
   - SaaS Transformation
