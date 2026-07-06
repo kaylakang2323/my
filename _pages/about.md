@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "About"
-permalink: /about/
+permalink: /
+author_profile: true
 ---
 
 ## Transformation Strategist
