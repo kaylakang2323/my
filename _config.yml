@@ -119,6 +119,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
   - scope:
       path: ""
@@ -126,6 +130,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
   - scope:
       path: ""
@@ -133,6 +141,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 category_archive:
   type: liquid
