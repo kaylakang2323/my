@@ -3,5 +3,6 @@ title: "Case Studies"
 layout: collection
 permalink: /case-studies/
 collection: case_studies
-entries_layout: grid
+entries_layout: list
+sort_by: order
 ---
