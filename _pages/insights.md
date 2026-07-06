@@ -3,50 +3,9 @@ title: "Insights"
 layout: collection
 permalink: /insights/
 collection: insights
-#entries_layout: list
-#sort_by: date
-#sort_order: reverse
-entries_layout: grid
-group_by: categories
+entries_layout: list
+sort_by: date
+sort_order: reverse
+#entries_layout: grid
+#group_by: categories
 ---
-{% include archive-single.html %}
-
-<section class="insights-clusters">
-
-  <h1>Insights</h1>
-  <p class="subtitle">Organizational thinking structured into three systems</p>
-
-  <!-- CLUSTER 1 -->
-  <div class="cluster">
-    <h2>AI & Systems</h2>
-
-    {% for post in site.insights %}
-      {% if post.categories == "AI&Systems" %}
-        {% include archive-single.html %}
-      {% endif %}
-    {% endfor %}
-  </div>
-
-  <!-- CLUSTER 2 -->
-  <div class="cluster">
-    <h2>Governance & Organization</h2>
-
-    {% for post in site.insights %}
-      {% if post.categories == "Governance&Organization" %}
-        {% include archive-single.html %}
-      {% endif %}
-    {% endfor %}
-  </div>
-
-  <!-- CLUSTER 3 -->
-  <div class="cluster">
-    <h2>Work Design & Facilitation</h2>
-
-    {% for post in site.insights %}
-      {% if post.categories == "WorkDesign&Facilitation" %}
-        {% include archive-single.html %}
-      {% endif %}
-    {% endfor %}
-  </div>
-
-</section>
