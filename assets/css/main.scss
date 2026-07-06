@@ -12,8 +12,15 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
-/* 현재 페이지 = hover underline 고정 */
+/* 현재 페이지 = hover underline 고정 
 .masthead__menu-item.active a[href*="journey"]{
   border-bottom: 10px solid;
-}
+} */
 
+body.page--journey .masthead__menu-item a[href*="journey"],
+body.page--capabilities .masthead__menu-item a[href*="capabilities"],
+body.page--case-studies .masthead__menu-item a[href*="case-studies"],
+body.page--playbooks .masthead__menu-item a[href*="playbooks"],
+body.page--tags .masthead__menu-item a[href*="tags"] {
+  border-bottom: 2px solid;
+}
