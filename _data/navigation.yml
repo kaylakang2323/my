@@ -15,8 +15,8 @@ main:
     url: /case-studies/
   - title: "Playbooks"
     url: /playbooks/
-  - title: "Insights"
-    url: /insights/
+#  - title: "Insights"
+#    url: /insights/
   - title: "Resume"
     url: /resume/
      
