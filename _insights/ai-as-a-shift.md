@@ -2,7 +2,7 @@
 title: "AI is not a tool, it is a structure shift"
 layout: single
 categories:
-  - Insights
+  - AI & SYSTEMS
 tags:
   - AI
   - Systems Thinking
