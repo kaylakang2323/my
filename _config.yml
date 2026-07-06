@@ -13,10 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: KK
-email:
+title: Kayla Kang
+email: kaylakang2323@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Transformation Strategist
+
+url: "https://kaylakang2323.github.io"
+baseurl: "/my"
 #instagram_username: username
 #github_username: username
 minimal_mistakes_skin: default
@@ -75,7 +78,6 @@ author:
 
 footer:
   links:
-  
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/여기에-프로필-ID"
@@ -87,6 +89,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/여기에ID"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
