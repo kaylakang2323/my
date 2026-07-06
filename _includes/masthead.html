@@ -1,18 +1,11 @@
-<nav class="greedy-nav">
+{% assign current = page.url | downcase %}
 
-  <ul class="visible-links">
+{% if current == '/about/' %}
+  {% assign current = '/' %}
+{% endif %}
 
-    {% for link in site.data.navigation.main %}
+{% assign target = link.url | downcase %}
 
-      {% assign current = page.url | downcase %}
-      {% assign target = link.url | downcase %}
-
-      <li class="masthead__menu-item{% if current == target %} active{% endif %}">
-        <a href="{{ link.url }}">{{ link.title }}</a>
-      </li>
-
-    {% endfor %}
-
-  </ul>
-
-</nav>
+<li class="masthead__menu-item{% if current == target %} active{% endif %}">
+  <a href="{{ link.url }}">{{ link.title }}</a>
+</li>
