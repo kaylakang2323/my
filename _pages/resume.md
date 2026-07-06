@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Executive Resume"
-permalink: /resume-exec/
+title: "Resume"
+permalink: /resume/
 ---
 
 ## Transformation Strategist
