@@ -1,7 +1,7 @@
 ---
 title: "Capability is not separate from role, but unevenly distributed within it"
 layout: single
-categories: Insights
+categories: "Insights"
 tags:
   - Governance
   - Organization Design
