@@ -13,6 +13,6 @@
 }
 
 /* 현재 페이지 = hover underline 고정 */
-.masthead__menu-item.active a {
-  border-bottom: 2px solid;
+.masthead__menu-item.active a[href*="journey"]{
+  border-bottom: 10px solid;
 }
