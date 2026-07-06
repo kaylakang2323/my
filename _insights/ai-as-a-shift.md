@@ -4,7 +4,7 @@ layout: single
 categories: AI&Systems
 tags:
   - AI
-  - Systems Thinking
+  - Transformation
 ---
 
 AI is often introduced into organizations as a productivity tool. However, this framing fundamentally underestimates its impact.
