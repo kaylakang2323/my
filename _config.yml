@@ -66,29 +66,29 @@ author:
   
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/여기에-프로필-ID"
+      url: "https://www.linkedin.com/in/hyein-kang-67a99b6a/"
 
     - label: "Brunch"
       icon: "fas fa-fw fa-pen-nib"
-      url: "https://brunch.co.kr/@beluvme"
+      url: "https://brunch.co.kr/magazine/makeitwork"
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/여기에ID"
+      url: "https://www.instagram.com/cocoxoxo_23/"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/여기에-프로필-ID"
+      url: "https://www.linkedin.com/in/hyein-kang-67a99b6a/"
 
     - label: "Brunch"
       icon: "fas fa-fw fa-pen-nib"
-      url: "https://brunch.co.kr/@beluvme"
+      url: "https://brunch.co.kr/magazine/makeitwork"
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/여기에ID"
+      url: "https://www.instagram.com/cocoxoxo_23/"
 
 atom_feed:
   hide: true
