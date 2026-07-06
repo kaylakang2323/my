@@ -13,10 +13,6 @@
 }
 
 /* 현재 페이지 = hover underline 고정 */
-.masthead__menu-item a[href*="journey"],
-.masthead__menu-item a[href*="capabilities"],
-.masthead__menu-item a[href*="case-studies"],
-.masthead__menu-item a[href*="playbooks"],
-.masthead__menu-item a[href*="tags"] {
+.masthead__menu-item.active a {
   border-bottom: 2px solid;
 }
