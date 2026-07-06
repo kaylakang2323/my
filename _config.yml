@@ -33,9 +33,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _case_studies
-  - _playbooks
-  - _insights
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -82,20 +79,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-collections:
-  case_studies:
-    output: true
-    permalink: /case-studies/:name/
-    sort_by: sort_order
-
-  playbooks:
-    output: true
-    permalink: /playbooks/:name/
-
-  insights:
-    output: true
-    permalink: /insights/:name/
-
 defaults:
   # _posts
   - scope:
@@ -115,39 +98,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _case-studies
-  - scope:
-      path: ""
-      type: case_studies
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-  - scope:
-      path: ""
-      type: playbooks
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-  - scope:
-      path: ""
-      type: insights
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 
 category_archive:
   type: liquid
