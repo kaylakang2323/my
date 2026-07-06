@@ -2,7 +2,7 @@
 title: "Workshops are extraction systems, not collaboration sessions"
 layout: single
 categories:
-  - Insights
+  - WORK DESIGN & FACILITATION
 tags:
   - Facilitation
   - System Design
