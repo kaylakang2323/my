@@ -10,7 +10,7 @@ date: 2026-07-05
 sort_order: 4
 
 categories:
-  - AI Transformation
+  - Case Studies
 
 tags:
   - AI Agents
@@ -18,6 +18,7 @@ tags:
   - Workflow Transformation
   - Design Thinking
   - Innovation
+  - AI Transformation
 
 author_profile: true
 toc: true
