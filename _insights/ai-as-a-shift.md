@@ -1,7 +1,7 @@
 ---
 title: "AI is not a tool, it is a structure shift"
 layout: single
-categories: AI&Systems
+categories: Insights
 tags:
   - AI
   - Transformation
