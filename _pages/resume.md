@@ -1,83 +1,71 @@
 ---
 layout: single
-title: "Resume"
-permalink: /resume/
+title: "Executive Resume"
+permalink: /resume-exec/
 ---
 
 ## Transformation Strategist
 
-I design and lead organizational transformation initiatives that connect technology adoption with operating model design, capability building, and cross-functional execution systems.
+I design organizational transformation systems that integrate technology adoption, operating model design, and cross-functional governance to enable scalable and sustainable change.
 
-My work sits at the intersection of AI, design, consulting, and organizational development, focusing on how organizations structurally evolve—not just how they implement change.
-
----
-
-## Core Capability Areas
-
-### Organizational Transformation & Operating Models
-- Designed and improved organizational operating structures for cross-functional collaboration
-- Developed governance systems for decision-making and execution alignment
-- Defined frameworks for scaling ways of working across teams and functions
-
-### AI & Technology Adoption Systems
-- Supported organizations in integrating emerging technologies into workflows and processes
-- Translated AI capabilities into practical operational use cases
-- Designed structures that reduce friction between technology and business adoption
-
-### Design & Customer Experience Systems
-- Led cross-functional design facilitation across product, engineering, and business teams
-- Improved customer-facing product experiences through structured design interventions
-- Built mechanisms to connect customer insight with organizational decision-making
-
-### Capability Building & Organizational Learning
-- Designed internal capability development programs for consulting and data transformation
-- Facilitated organizational learning processes for new domain adoption (e.g., data/AI consulting)
-- Enabled teams to transition from individual expertise to scalable organizational capability
+My work focuses on bridging strategy and execution by restructuring how organizations decide, operate, and evolve.
 
 ---
 
-## Professional Experience Narrative
+## Core Expertise
 
-### Technology Foundations (Hacker Phase)
-Built early systems thinking through experimentation with software, automation, and system logic. Developed a foundational understanding of how systems can be structured, optimized, and extended.
+### Organizational Transformation
+- Design of operating models for cross-functional organizations
+- Governance system architecture for decision-making and execution alignment
+- Organizational structure redesign for scalability and clarity
+
+### AI & Digital Transformation
+- Translation of emerging technologies into operational workflows
+- AI-enabled process redesign and adoption frameworks
+- Integration of technology capabilities into organizational systems
+
+### Design & Experience Systems
+- Cross-functional facilitation across product, engineering, and business teams
+- Customer experience system improvement through structured design interventions
+- Alignment of user needs with organizational decision-making structures
+
+### Capability & Learning Systems
+- Design of internal capability-building programs
+- Organizational learning system development for new domains (AI, data, consulting)
+- Transition frameworks from individual expertise to organizational capability
 
 ---
+
+## Selected Experience Domains
+
+### Technology Foundations
+Developed systems thinking through early experimentation with software, automation, and system design.
 
 ### AI & Research Exposure
-Worked with emerging AI technologies in early-stage contexts. Focused on understanding not only technical capabilities but also constraints in real organizational adoption environments.
-
----
+Worked with emerging AI technologies, focusing on real-world adoption constraints within organizational contexts.
 
 ### Consulting & Capability Transformation
-Contributed to building internal consulting capability structures during transitions into data-driven consulting practices. Focused on enabling organizational learning rather than individual training.
-
----
+Contributed to building internal consulting capabilities during transition to data-driven practices and structured organizational learning systems.
 
 ### Design & Cross-functional Systems
-Led design-driven initiatives across product and service environments, focusing on improving collaboration between business, product, and engineering teams. Emphasis shifted from interface design to decision-system design.
-
----
+Led initiatives improving collaboration between product, engineering, and business functions through structured design systems and decision frameworks.
 
 ### Organizational Transformation Practice
-Transitioned from functional execution into organizational system design. Developed governance structures, operating models, and cross-functional coordination systems that enable scalable execution and consistent decision-making.
+Designed governance structures and operating models enabling scalable execution across distributed teams and functions.
 
 ---
 
 ## Current Focus
-
-Today, I operate as a Transformation Strategist, focusing on:
 
 - Organizational operating model design
 - AI-enabled workflow transformation
 - Governance system architecture
 - Cross-functional capability alignment
 
-My goal is to help organizations move from functional optimization to system-level transformation.
-
 ---
 
 ## Core Principle
 
-Sustainable transformation does not come from improving individual functions.
+Transformation does not occur at the level of tools or teams.
 
-It comes from redesigning the systems that connect them.
+It occurs at the level of systems that determine how work is defined, distributed, and executed.
