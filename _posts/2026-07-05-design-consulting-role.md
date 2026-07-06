@@ -13,7 +13,7 @@ header:
   teaser: /assets/images/case-studies/design-consulting-role-cover.png
 
 categories:
-  - Organization Design
+  - Case Studies
 
 tags:
   - Organization Design
