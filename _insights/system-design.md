@@ -3,7 +3,7 @@ title: "Systems matter more than execution quality"
 layout: single
 categories: AI&Systems
 tags:
-  - System Design
+  - System Thinking
   - Strategy
 ---
 
