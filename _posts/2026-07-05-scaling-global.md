@@ -10,7 +10,7 @@ date: 2026-07-05
 sort_order: 6
 
 categories:
-  - Organization Design
+  - Case Studies
 
 tags:
   - Organization Design
