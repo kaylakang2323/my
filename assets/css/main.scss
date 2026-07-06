@@ -3,6 +3,7 @@
 
 @import "minimal-mistakes";
 
+/* sticky header */
 .masthead {
   position: sticky;
   top: 0;
@@ -11,25 +12,19 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
-.greedy-nav .active > a {
-  border-bottom: 2px solid #2563eb;
-  font-weight: 700;
+/* 기본 메뉴 상태 */
+.masthead__menu-item a {
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease;
 }
 
-/* 현재 페이지 메뉴 강조 */
-.masthead__menu-item a:hover,
-.masthead__menu-item a:focus {
-  color: #52adc8;
+/* 현재 페이지 = hover 상태 고정 */
+.masthead__menu-item a[href="/journey/"],
+.masthead__menu-item a[href="/capabilities/"],
+.masthead__menu-item a[href="/case-studies/"],
+.masthead__menu-item a[href="/playbooks/"],
+.masthead__menu-item a[href="/tags/"] {
   border-bottom: 2px solid #52adc8;
-}
-
-/* 현재 페이지와 URL 매칭 (각 페이지별) */
-body[class*="journey"] .masthead__menu-item a[href*="journey"],
-body[class*="capabilities"] .masthead__menu-item a[href*="capabilities"],
-body[class*="case-studies"] .masthead__menu-item a[href*="case-studies"],
-body[class*="playbooks"] .masthead__menu-item a[href*="playbooks"],
-body[class*="tags"] .masthead__menu-item a[href*="tags"] {
   color: #52adc8;
   font-weight: 700;
-  border-bottom: 2px solid #52adc8;
 }
