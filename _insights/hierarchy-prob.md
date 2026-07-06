@@ -3,7 +3,7 @@ title: "Hierarchy is a signal distortion system"
 layout: single
 categories: Governance&Organization
 tags:
-  - Organizational Behavior
+  - Organization Design
   - Governance
 ---
 
