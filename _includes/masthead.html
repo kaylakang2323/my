@@ -1,0 +1,18 @@
+<nav class="greedy-nav">
+
+  <ul class="visible-links">
+
+    {% for link in site.data.navigation.main %}
+
+      {% assign current = page.url | downcase %}
+      {% assign target = link.url | downcase %}
+
+      <li class="masthead__menu-item{% if current == target %} active{% endif %}">
+        <a href="{{ link.url }}">{{ link.title }}</a>
+      </li>
+
+    {% endfor %}
+
+  </ul>
+
+</nav>
