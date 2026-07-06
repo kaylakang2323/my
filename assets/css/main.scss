@@ -12,19 +12,11 @@
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
-/* 기본 메뉴 상태 */
-.masthead__menu-item a {
-  border-bottom: 2px solid transparent;
-  transition: all 0.2s ease;
-}
-
-/* 현재 페이지 = hover 상태 고정 */
+/* 현재 페이지 = hover underline 고정 */
 .masthead__menu-item a[href="/journey/"],
 .masthead__menu-item a[href="/capabilities/"],
 .masthead__menu-item a[href="/case-studies/"],
 .masthead__menu-item a[href="/playbooks/"],
 .masthead__menu-item a[href="/tags/"] {
-  border-bottom: 2px solid #52adc8;
-  color: #52adc8;
-  font-weight: 700;
+  border-bottom: 2px solid;
 }
