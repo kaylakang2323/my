@@ -10,7 +10,7 @@ date: 2026-07-05
 sort_order: 3
 
 categories:
-  - Case Study
+  - Case Studies
 
 tags:
   - Product Strategy
