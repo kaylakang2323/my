@@ -7,7 +7,7 @@ categories:
 tags:
   - Governance
   - Organization Design
-  - Systems
+  - System
   - Strategy
 ---
 
