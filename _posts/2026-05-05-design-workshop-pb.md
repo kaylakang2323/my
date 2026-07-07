@@ -9,6 +9,7 @@ tags:
   - Design Thinking
   - Cross-functional Collaboration
   - Governance
+  - Facilitation
 ---
 
 ## 1. Executive Context
