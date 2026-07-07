@@ -6,9 +6,9 @@ categories:
   - Playbooks
 tags:
   - Governance
-  - Organizational Design
-  - Decision Systems
-  - Cross-regional Collaboration
+  - Organization Design
+  - Systems
+  - Strategy
 ---
 
 ## 1. Executive Context
