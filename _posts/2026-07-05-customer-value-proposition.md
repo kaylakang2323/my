@@ -13,11 +13,10 @@ categories:
   - Case Studies
 
 tags:
-  - Product Strategy
-  - Customer Value
+  - Strategy
   - Governance
   - Facilitation
-  - Workflow Transformation
+  - Transformation
 
 author_profile: true
 toc: true
