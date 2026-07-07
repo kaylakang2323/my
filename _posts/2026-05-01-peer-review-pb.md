@@ -5,10 +5,9 @@ excerpt: "A structured evaluation system designed to mitigate hierarchical bias 
 categories:
   - Playbooks
 tags:
-  - System Design
+  - System
   - Organizational Design
-  - Design Governance
-  - Evaluation Systems
+  - Governance
 ---
 
 ## 1. Executive Context
