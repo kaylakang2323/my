@@ -5,10 +5,10 @@ excerpt: "A structured facilitation system to improve cross-functional alignment
 categories:
   - Playbooks
 tags:
-  - System Design
-  - Facilitation
+  - System
+  - Design Thinking
   - Cross-functional Collaboration
-  - Design Governance
+  - Governance
 ---
 
 ## 1. Executive Context
