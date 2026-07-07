@@ -15,7 +15,6 @@ categories:
 tags:
   - Organization Design
   - Global Leadership
-  - Team Scaling
   - Governance
   - Cross-functional Collaboration
 
