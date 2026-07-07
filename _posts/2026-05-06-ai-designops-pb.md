@@ -6,9 +6,9 @@ categories:
   - Playbooks
 tags:
   - AI
-  - Design Operations
-  - System Design
-  - Automation
+  - DesignOps
+  - System
+  - Transformation
 ---
 
 ## 1. Executive Context
