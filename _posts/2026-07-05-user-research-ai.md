@@ -13,12 +13,9 @@ categories:
   - Case Studies
 
 tags:
-  - AI Agents
-  - User Research
-  - Workflow Transformation
+  - AI
+  - Transformation
   - Design Thinking
-  - Innovation
-  - AI Transformation
 
 author_profile: true
 toc: true
