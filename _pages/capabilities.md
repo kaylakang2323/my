@@ -2,7 +2,7 @@
 layout: single
 title: "Capabilities"
 permalink: /capabilities/
-breadcrumbs: true
+#breadcrumbs: true
 ---
 
 I help organizations adopt emerging technologies by redesigning how people work, learn, and collaborate.
