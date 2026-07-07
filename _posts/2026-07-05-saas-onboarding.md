@@ -13,9 +13,7 @@ categories:
   - Case Studies
 
 tags:
-  - SaaS Transformation
-  - User Experience
-  - Product Design
+  - Transformation
   - Cross-functional Collaboration
   - Service Design
 
