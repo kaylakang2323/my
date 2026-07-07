@@ -6,7 +6,7 @@ categories:
   - Playbooks
 tags:
   - System
-  - Organizational Design
+  - Organization Design
   - Governance
 ---
 
