@@ -17,9 +17,7 @@ categories:
 
 tags:
   - Organization Design
-  - Role Design
-  - Capability Framework
-  - Facilitation
+  - Governance
   - Cross-functional Collaboration
 
 author_profile: true
