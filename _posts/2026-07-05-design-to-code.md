@@ -14,9 +14,8 @@ categories:
 
 tags:
   - Governance
-  - Design-to-Code
-  - Workflow Transformation
-  - Platform Strategy
+  - Transformation
+  - Strategy
   - Cross-functional Collaboration
 
 author_profile: true
