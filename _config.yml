@@ -70,7 +70,7 @@ author:
 
     - label: "Brunch"
       icon: "fas fa-fw fa-pen-nib"
-      url: "https://brunch.co.kr/magazine/makeitwork"
+      url: "https://brunch.co.kr/brunchbook/system-maker"
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -84,7 +84,7 @@ footer:
 
     - label: "Brunch"
       icon: "fas fa-fw fa-pen-nib"
-      url: "https://brunch.co.kr/magazine/makeitwork"
+      url: "https://brunch.co.kr/brunchbook/system-maker"
 
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
